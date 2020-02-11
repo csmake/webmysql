@@ -10,9 +10,9 @@ You can do almost invoke on MySQL through the javascript API in browser.
 
 The client javascript api support `IE6.0+ Chrome FireFox and Wechat`
 
-web: http://dbcloud.org
+web: http://www.csmake.com
 
-mail: dbcloud@csmake.com   
+mail: rd@csmake.com   
 
 ## Application scenarios
 
